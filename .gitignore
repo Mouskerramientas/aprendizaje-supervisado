@@ -3,4 +3,6 @@
 
 venv
 
-*.csv
+imdb_top_1000.csv
+top_youtuber.csv
+TMDB_movie_dataset_v11.csv
